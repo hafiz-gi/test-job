@@ -110,8 +110,8 @@ class _VideoPlayerItemState extends State<VideoPlayerItem> {
    localStorage();
     _videoController = VideoPlayerController.network(widget.videoUrl)
       ..initialize().then((value) {
-        // _videoController.play();
-        // _videoController.setLooping(true);
+        _videoController.play();
+        _videoController.setLooping(true);
         setState(() {
           isShowPlaying = false;
         });
