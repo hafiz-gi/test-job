@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75168598097",
+    "firebase_url": "https://job-test-86a31.firebaseio.com",
+    "project_id": "job-test-86a31",
+    "storage_bucket": "job-test-86a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75168598097:android:22e7dfa6f7205d77285070",
+        "android_client_info": {
+          "package_name": "com.hafiz.test_job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75168598097-iggsgs6qjoob5c777k33crpmivkn9oi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKr6slWexYa4UHka5jBKG7fP1NRiErMfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75168598097-iggsgs6qjoob5c777k33crpmivkn9oi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
